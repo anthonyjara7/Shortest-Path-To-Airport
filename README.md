@@ -1,1 +1,2 @@
 # Shortest-Path-To-Airport
+Dijkstra's Algorithm can be useful in many situations. One of these cases is calculating the shortest path from one airport to the next. The sample data file named 'airports.txt' lists some airports along with their destinations that one may fly to. When executing the source code, the user is prompted with the departure and arrival airport from which they would like to fly to and from. The program then calculates the total price, connections, and route that the user would need to take to get to the destination they desire.
